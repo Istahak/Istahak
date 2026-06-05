@@ -6,6 +6,8 @@
   <a href="https://github.com/Istahak">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=6C47FF&center=true&vCenter=true&width=700&lines=Building+web+apps+at+Enosis+Solutions+%F0%9F%9A%80;ICPC+%26+IUPC+competitive+programmer+%F0%9F%A7%A9;Full-stack+dev+who+loves+clean+algorithms+%E2%9A%A1;300%2B+problems+solved+and+counting+%F0%9F%93%88" alt="Typing SVG"/>
   </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=AA00AA&center=true&vCenter=true&width=600&lines=Candidate+Master+%40+Codeforces+%F0%9F%8F%85" alt="Codeforces rank"/>
+  
 </p>
 
 <!-- ===== PROFILE METRICS ===== -->
@@ -19,36 +21,68 @@
   <a href="https://istahak.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-6C47FF?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/md-istahak-islam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sistahak900@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://codeforces.com/profile/_0Istahak"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://codeforces.com/profile/Istahak16"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/cool-github-profiles/main/assets/rainbow-line.gif" alt="divider"/>
 
-## 🧑‍💻 About Me
+## 👋 Hey, I'm Istahak
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=Istahak&show_icons=true&hide_border=true&count_private=true&theme=radical&card_width=420" alt="stats"/>
+> *Turning hard problems into clean code, one commit at a time.*
 
-```python
-class Istahak:
-    def __init__(self):
-        self.role     = "Software Engineer @ Enosis Solutions BD"
-        self.location = "Dhaka, Bangladesh 🇧🇩"
-        self.education = "CSE, University of Dhaka"
-        self.code     = ["C++", "Python", "TypeScript", "C#", "Java"]
-        self.focus    = ".NET Core MVC + modern web"
-        self.passion  = "competitive programming"
+I'm a software engineer in **Dhaka** living at the intersection of competitive programming and full-stack development. By day I build web apps at **Enosis Solutions** with .NET and modern JavaScript. By night you'll usually find me deep in an ICPC problem set with my team. I care about systems that run fast, code that reads well, and write-ups that make hard ideas finally click.
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something!")
-```
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- 🔭 Shipping web apps with **.NET Core MVC** and modern JavaScript
-- 🧩 Competing in **ICPC / IUPC** with teams **DU_Oblivion** & **DU_Odyssey**
-- ✍️ Writing algorithm deep-dives at [istahak.vercel.app/blog](https://istahak.vercel.app/blog)
-- 💬 Ask me about **DP, graphs, trees, and string algorithms**
-- 📫 **sistahak900@gmail.com**
+<details open>
+<summary><b>🚀&nbsp;&nbsp;What I'm up to</b></summary>
+<br/>
 
-<br clear="both"/>
+🏢&nbsp; Software Engineer @ **Enosis Solutions BD**<br/>
+🧩&nbsp; Competing in **IUPC** with DU_Oblivion / DU_Odyssey<br/>
+✍️&nbsp; Writing algorithm deep-dives on [my blog](https://istahak.vercel.app/blog)
+
+</details>
+
+<details>
+<summary><b>🧠&nbsp;&nbsp;My favorite problem space</b></summary>
+<br/>
+
+Dynamic programming, graph & tree algorithms, and string structures (suffix arrays / automata). I love the moment a messy problem collapses into one clean recurrence.
+
+</details>
+
+</td>
+<td valign="top" width="50%">
+
+<details>
+<summary><b>🎯&nbsp;&nbsp;Currently leveling up</b></summary>
+<br/>
+
+System design, cloud on **Azure**, and shipping production-grade **.NET** at scale.
+
+</details>
+
+<details>
+<summary><b>💬&nbsp;&nbsp;Let's talk about</b></summary>
+<br/>
+
+Competitive programming, full-stack architecture, or anything DP / graphs / strings.<br/>
+📫&nbsp; **sistahak900@gmail.com**
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Dhaka,_Bangladesh-0D1117?style=flat-square&labelColor=0D1117&color=6C47FF"/>
+  <img src="https://img.shields.io/badge/🎓_University_of_Dhaka-0D1117?style=flat-square&labelColor=0D1117&color=00C9A7"/>
+  <img src="https://img.shields.io/badge/☕_Powered_by_coffee_&_curiosity-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B"/>
+</p>
 
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/cool-github-profiles/main/assets/rainbow-line.gif" alt="divider"/>
 
@@ -128,12 +162,11 @@ Explore detailed write-ups, the full project list, and live demos on my portfoli
 | 🎖️ | BUET CSE Fest IUPC 2026 | **9th** (8 solved) |
 | 🌏 | ICPC Asia Dhaka Regional 2024 | **37th** |
 
-**300+** problems solved • **15+** contests • Teams DU_Oblivion / DU_Odyssey
-
 </td>
 <td valign="top" width="45%">
 
 <p align="center">
+  <a href="https://codeforces.com/profile/Istahak16"><img src="https://img.shields.io/badge/Codeforces-Istahak16-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a><br/>
   <a href="https://codeforces.com/profile/_0Istahak"><img src="https://img.shields.io/badge/Codeforces-_0Istahak-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a><br/>
   <a href="https://leetcode.com/u/_0Istahak/"><img src="https://img.shields.io/badge/LeetCode-_0Istahak-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a><br/>
   <a href="https://codechef.com/users/istahak900"><img src="https://img.shields.io/badge/CodeChef-istahak900-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a><br/>
@@ -157,20 +190,25 @@ Explore detailed write-ups, the full project list, and live demos on my portfoli
 
 ## 📊 GitHub Stats
 
+<!-- Highlight badges (always render) -->
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istahak&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="top langs"/>
-  <img width="40%" src="https://streak-stats.demolab.com/?user=Istahak&hide_border=true&theme=radical" alt="streak"/>
+  <img src="https://img.shields.io/badge/Problems_Solved-300%2B-FF4088?style=for-the-badge" alt="problems"/>
+  <img src="https://img.shields.io/badge/Contests-15%2B-00C9A7?style=for-the-badge" alt="contests"/>
+  <img src="https://img.shields.io/badge/Top--10_Finishes-5%C3%97-6C47FF?style=for-the-badge" alt="top10"/>
+  <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="cf"/>
 </p>
 
+<!-- Streak card (reliable service) -->
 <p align="center">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=Istahak&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Istahak&hide_border=true&theme=radical&background=0D1117&border_radius=12" alt="streak"/>
 </p>
 
+<!-- Most-used languages as colorful icons (reliable) -->
+<h3 align="center">Most Used Languages</h3>
 <p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Istahak&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java&theme=dark" alt="top languages"/>
 </p>
 
-<!-- ===== QUOTE ===== -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
 </p>
